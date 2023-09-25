@@ -1,5 +1,5 @@
 # Python_GUI_Tools
-A collection of basic python application built in GUI libraries like Tkinter and PyQT.
+A collection of basic python application built in GUI libraries like Tkinter and PyQT which I built while learning GUI development using python.
 
 ## Available tools in collection - 
 
