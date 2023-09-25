@@ -7,6 +7,8 @@ A collection of basic python application built in GUI libraries like Tkinter and
   - A simple GUI for calculator for basic math operations.
 - Calendar GUI
   - Shows calendar of a specific year specified by the user.
+- Doodler
+  - A simple doodling board where you can draw random stuff and shapes.
  
 ## Dependencies
 You will use `Tkinter` python module if required, install it using following pip command.
