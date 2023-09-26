@@ -9,6 +9,8 @@ A collection of basic python application built in GUI libraries like Tkinter and
   - Shows calendar of a specific year specified by the user.
 - Doodler
   - A simple doodling board where you can draw random stuff and shapes.
+- JPEG to PNG Converter
+  - Converter tool using Pillow and Tkinter
  
 ## Dependencies
 You will use `Tkinter` python module if required, install it using following pip command.
